@@ -1,0 +1,17 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 4%;
+    list-style-type: none;
+    overflow: hidden;
+    background-color: black;
+}
+
+.navbar .logo {
+    width: max(10%, 80px);
+}
+
+.navbar .profile {
+    width: 40px;
+}
